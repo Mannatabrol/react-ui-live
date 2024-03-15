@@ -1,0 +1,38 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .search-form {
+    margin-bottom: 20px;
+  }
+  
+  .search-input {
+    padding: 8px;
+    margin-right: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    min-width: 200px;
+  }
+  
+  .search-btn {
+    padding: 8px 16px;
+    border-radius: 4px;
+    border: none;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .weather-details {
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+  }
+  /* styles.css */
+
+
+  .container {
+    text-align: center; /* Center align the content */
+  }
+  
